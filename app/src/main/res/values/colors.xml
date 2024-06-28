@@ -11,4 +11,5 @@
     <color name="viewProduct">#003366</color>
     <color name="editProduct">#d26a00</color>
     <color name="deleteProduct">#ff9f7f</color>
+    <color name="appColor">#ed784a</color>
 </resources>
